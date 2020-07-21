@@ -1,5 +1,5 @@
 <h1 align="center">
-  Challenge 03: ReactJS Concepts
+  Challenge 03: React Native Concepts
 </h1>
 
 <h2 align="center">
